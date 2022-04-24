@@ -2,6 +2,12 @@
 
 This project is a front-end app I made using React for my friend's API about a few games he likes. Given the content, I wanted to make something with a similar look to GameStop.
 
+### This project is deployed under [Netlify](https://michelsgameapi.netlify.app/)
+
+---
+
+## Links to Michel's project:
+
 ### [Michel's Game API deployed on Heroku](https://github.com/game-api7.herokuapp.com/api/games).
 
 ### [Michel's Game API repo on GitHub](https://github.com/Michel9510/Game-API)
