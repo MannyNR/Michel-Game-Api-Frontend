@@ -16,12 +16,6 @@ In your terminal copy and paste the following and hit enter to start cloning the
 git clone https://github.com/MannyNR/Michel-Game-Api-Frontend.git
 ```
 
-Then change into the project's directory by entering the following:
-
-```
-cd michel-game-api-frontend/
-```
-
 In the project directory, you can run to install all dependencies:
 
 ```
@@ -42,15 +36,15 @@ This will run the app in the your browser under [http://localhost:3000](http://l
 
 ## Desktop view:
 
-![image](/michel-game-api-frontend/src/image/Desktop.png)
+![image](/src/image/Desktop.png)
 
 ## Mobile view:
 
-![image](/michel-game-api-frontend/src/image/Gameinfo.png)
+![image](/src/image/Gameinfo.png)
 
 ## No mediaquery support however, I used clamp and flex box to achieve responsive-ish behavior.
 
-![image](/michel-game-api-frontend/src/image/Responsive-ish.png)
+![image](/src/image/Responsive-ish.png)
 
 ---
 
